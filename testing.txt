@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9475-9580
+
+ Directory of C:\Users\Cloud Analogy\OneDrive\Desktop\Tools\Git\MyGitProject
+
+12/11/2020  06:37 PM    <DIR>          .
+12/11/2020  06:37 PM    <DIR>          ..
+12/11/2020  06:37 PM                 0 testing.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  80,240,709,632 bytes free
